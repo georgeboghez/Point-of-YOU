@@ -1,0 +1,23 @@
+#container{
+	margin: 0px auto;
+	width: 800px;
+}
+
+.inp{
+	display:block;
+	max-width:300px;
+	margin-bottom:15px;
+}
+
+textarea{
+	resize:vertical;
+}
+
+body{
+	background-color:#2E6CB5;
+}
+
+.jumbotron{
+	background-color:#A4DEF8 !important;
+	border-style:dotted  !important;
+}
